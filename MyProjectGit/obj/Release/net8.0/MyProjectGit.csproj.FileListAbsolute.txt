@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\MyProjectGit.exe
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\MyProjectGit.deps.json
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\MyProjectGit.runtimeconfig.json
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\MyProjectGit.dll
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\MyProjectGit.pdb
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.dll
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\refint\MyProjectGit.dll
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.pdb
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\MyProjectGit.genruntimeconfig.cache
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\obj\Release\net8.0\ref\MyProjectGit.dll

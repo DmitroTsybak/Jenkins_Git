@@ -1,0 +1,5 @@
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\publish\MyProjectGit.exe
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\publish\MyProjectGit.dll
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\publish\MyProjectGit.deps.json
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\publish\MyProjectGit.runtimeconfig.json
+C:\Users\Dima\Desktop\Docker\Jenkins_Git\MyProjectGit\bin\Release\net8.0\publish\MyProjectGit.pdb
