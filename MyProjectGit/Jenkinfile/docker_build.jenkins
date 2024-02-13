@@ -5,7 +5,7 @@ pipeline {
         stage ('Build image'){
             steps{
                 echo "==================start build image================="
-                dir (MyProjectGit){
+                dir ('MyProjectGit'){
                     sh 'docker build -t jenkins_git -f Dockerfile .'
                     }                
                 echo "=================end building======================"
