@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage ('Build image'){
+            steps{
+                echo "==================start build image================="
+                
+                    sh 'docker build -t jenkins_git -f Dockerfile .'
+                echo "=================end building======================"
+            }
+        }
+        
+        stage ('Run my container'){
+            steps{
+               echo "==================run container=================" 
+               sh 'docker run -d jenkins_git'
+            }
+        }
+    }
+}
