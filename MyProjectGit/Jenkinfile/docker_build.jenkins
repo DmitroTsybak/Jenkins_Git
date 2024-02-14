@@ -12,10 +12,11 @@ pipeline {
             }
         }
         
-        stage ('Run my container'){
+        stage ('Create container my container'){
             steps{
-               echo "==================run container=================" 
-               sh 'docker run -d jenkins_git'
+               echo "==================create container=================" 
+               sh 'docker create --name git_container jenkins_git'
+               echo "==================end program======================" 
             }
         }
     }
